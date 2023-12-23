@@ -1,3 +1,5 @@
+**Muhamad Panji Setiadi - 201011400143**
+
 # SimpleCart
 implement simple cart and promotion
 
